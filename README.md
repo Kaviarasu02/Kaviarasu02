@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Kaviarasu02
-- 👀 I’m interested in Web development | cloud computing | 
-- 🌱 I’m currently learning Cloud computing
-- 💞️ I’m looking to collaborate on Internship
+- 👋 Hi, I’m KAVIARASU S
+- 👀 I’m interested in Web development | AI & ML |  
+- 🌱 I’m currently learning Prompt Engineering by GUVI
+- 💞️ I’m looking to collaborate on an Internship
 - 📫 How to reach me
 - gmail - krazykavi2003@gmail.com
 
