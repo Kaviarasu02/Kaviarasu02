@@ -1,6 +1,6 @@
 - 👋 Hi, I’m KAVIARASU S
-- 👀 I’m interested in Web development | AI & ML |  
-- 🌱 I’m currently learning Prompt Engineering by GUVI
+- 👀 I’m interested in Web development | AI & ML | JAVA Full Stack
+- 🌱 I’m currently learning JAVA Full Stack @ TAP ACADEMY
 - 💞️ I’m looking to collaborate on an Internship
 - 📫 How to reach me
 - gmail - krazykavi2003@gmail.com
