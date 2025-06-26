@@ -1,7 +1,7 @@
 - 👋 Hi, I’m KAVIARASU S
 - 👀 I’m interested in Web development | Frontend Developing | JAVA Full Stack
 - 🌱 I’m currently learning JAVA Full Stack @ TAP ACADEMY
-- 💞️ I’m looking to collaborate on an full-time job
+- 💞️ I’m looking to collaborate on a full-time job
 - 📫 How to reach me
 - gmail - krazykavi2003@gmail.com
 
